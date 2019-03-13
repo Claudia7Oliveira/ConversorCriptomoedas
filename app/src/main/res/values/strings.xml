@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cripto Conversor</string>
+    <string name="qtdMoeda">"Insira um valor. "</string>
+    <string name="TipoReal">R$</string>
+    <string name="valor">Valores em:</string>
+    <string name="erro">Digite um valor.</string>
+</resources>

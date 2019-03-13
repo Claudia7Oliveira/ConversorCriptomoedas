@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriptoConversor</string>
+    <string name="erro">"Please enter a value. "</string>
+    <string name="qtdMoeda">"Please enter a value. "</string>
+    <string name="TipoReal">R$</string>
+    <string name="valor">Values in:</string>
+</resources>

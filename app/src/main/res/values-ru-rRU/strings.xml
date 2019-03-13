@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriptoConversor</string>
+    <string name="qtdMoeda" translatable="false">Значение для преобразования:</string>
+    <string name="TipoReal">R$</string>
+    <string name="valor">Значения в:</string>
+    <string name="erro">Пожалуйста, введите значение.</string>
+</resources>
